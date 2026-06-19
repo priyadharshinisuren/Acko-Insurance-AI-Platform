@@ -1,0 +1,19 @@
+streamlit
+langchain
+langgraph
+chromadb
+sqlalchemy
+psycopg2-binary
+google-generativeai
+sentence-transformers
+langchain-google-genai
+joblib
+scikit-learn
+pandas
+shap
+psycopg2-binary
+matplotlib.pyplot 
+ boto3
+ streamlit_option_menu
+Pillow
+ plotly
